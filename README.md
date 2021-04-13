@@ -1,5 +1,7 @@
-TypeScript React Hello World Demo
-=================================
+TypeScript React Set State will Trigger ReRender Demo
+=====================================================
+
+只set而不使用其值，依然会触发re-render
 
 ```
 npm install
